@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>QuickMarket Privacy Policy</title>
+</head>
+<body style="font-family: Arial; max-width: 800px; margin: auto; padding: 20px;">
+    <h1>Privacy Policy – QuickMarket</h1>
+    <p>Effective Date: June 2026</p>
+
+    <p>QuickMarket values your privacy. This Privacy Policy explains how we collect, use, and protect your information.</p>
+
+    <h2>Information We Collect</h2>
+    <ul>
+        <li>Mobile phone number for login and OTP verification</li>
+        <li>Basic account details required to use QuickMarket</li>
+    </ul>
+
+    <h2>How We Use Information</h2>
+    <ul>
+        <li>To authenticate users using OTP</li>
+        <li>To provide shopping and order services</li>
+        <li>To improve platform security</li>
+    </ul>
+
+    <h2>Data Protection</h2>
+    <p>We take reasonable measures to protect user information and do not sell personal data to third parties.</p>
+
+    <h2>Contact</h2>
+    <p>Email: yourgmail@gmail.com</p>
+
+    <p>By using QuickMarket, you agree to this Privacy Policy.</p>
+</body>
+</html>
